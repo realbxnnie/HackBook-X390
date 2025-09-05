@@ -1,8 +1,8 @@
-# Hackintosh Thinkpad X390 Ventura (13.4 - OC 0.9.2)
+# Hackintosh Thinkpad X390 Mojave
 
 ## Table of Contents
 
-- [Hackintosh Thinkpad X390 Ventura (13.4 - OC 0.9.2)](#hackintosh-thinkpad-x390-ventura-134---oc-092)
+- [Hackintosh Thinkpad X390 Mojave](#hackintosh-thinkpad-x390)
   - [Table of Contents](#table-of-contents)
   - [Device Information](#device-information)
   - [Usage](#usage)
@@ -33,12 +33,11 @@
 | Specifications | Details |
 |:---|:---|
 | Computer Model | ThinkPad X390 |
-| CPU | Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz |
-| Model |  Lenevo 20Q1|
-| Displayer | Lenevo LEN4094 ( 13.3 inch  ) |
-| Memory | 16 GB ( 2x8 Samsung DDR4 2400 MHz ) |
-| NVMe SSD | NVME WD Blue SN570 500GB |
-| Integrated Graphics | Intel UHD Graphics 630 (Mobile) |
+| CPU | Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz |
+| Displayer | Lenovo LEN4094 ( 13.3 inch  ) |
+| Memory | 8 GB |
+| NVMe SSD | 256GB |
+| Integrated Graphics | Intel UHD Graphics 620 |
 | Ethernet |  Intel(R) Ethernet Connection (6) I219-V |
 | Sound Card | Intel Intel Smart Sound Technology Audio Controller (layout-id: 11) |
 | Wireless Card |  Intel(R) Wireless-AC 9560 160MHz |
@@ -49,7 +48,7 @@
 
 If you have the same computer as me, you just need to replace your EFI with the EFI in the current directory. Don't forget to update your serial.
 
-## What-is-working
+## What is working
 
 ### Detailed-Device-Drivers
 
@@ -112,9 +111,9 @@ Probably functioning normally.
 Functioning normally.
 
 
-## What-is-not-working
+## What is not working
 
-- Airdrops, AirPlay, and Continuity Camera fail to work properly, but Handoff works.
+- Airdrops, AirPlay.
 
 ## Recommended-BIOS-Config
 
@@ -133,8 +132,8 @@ Hibernation is supported. No serious issue found after wake-up.
 
 ## Support
 
-**Ventura**
-- 13.4
+**Mojave**
+- 10.14.66
 
 ## Credits
 - [@mendax1234](https://github.com/mendax1234) for [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI)
