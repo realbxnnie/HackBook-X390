@@ -118,6 +118,7 @@ Functioning normally.
 ## What is not working
 
 - Airdrops, AirPlay.
+- Touch ID
 
 ## Recommended-BIOS-Config
 
