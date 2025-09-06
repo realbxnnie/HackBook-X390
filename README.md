@@ -133,7 +133,10 @@ Hibernation is supported. No serious issue found after wake-up.
 ## Support
 
 **Mojave**
-- 10.14.66
+- 10.14.6
+
+**Catalina**
+- 10.15
 
 ## Credits
 - [@mendax1234](https://github.com/mendax1234) for [ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI)
