@@ -1,4 +1,7 @@
 # Hackintosh Thinkpad X390
+[![macOS Version](https://custom-icon-badges.demolab.com/badge/macOS%20-%2010.14%20to%2015.6.1-005FFF.svg?logo=apple&logoColor=white)](#)
+[![OpenCore Version](https://custom-icon-badges.demolab.com/badge/OpenCore%20-%200.9.2-00FFF.svg?logo=opencore&logoColor=white)](#)
+
 <img src="https://raw.githubusercontent.com/realbxnnie/HackBook-X390/refs/heads/main/2025-09-06%2012.08.43.jpg" align="right">
 
 ## Table of Contents
