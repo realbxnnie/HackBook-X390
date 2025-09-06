@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Hackintosh Thinkpad X390 Mojave](#hackintosh-thinkpad-x390)
+- [Hackintosh Thinkpad X390](#hackintosh-thinkpad-x390)
   - [Table of Contents](#table-of-contents)
   - [Device Information](#device-information)
   - [Usage](#usage)
