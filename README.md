@@ -1,4 +1,5 @@
 # Hackintosh Thinkpad X390
+<img src="https://raw.githubusercontent.com/realbxnnie/HackBook-X390/refs/heads/main/2025-09-06%2012.08.43.jpg" align="right">
 
 ## Table of Contents
 
