@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/realbxnnie/HackBook-X390/refs/heads/main/2025-09-06%2012.08.43.jpg" align="right">
 
-# Hackintosh EFI 
+# Hackintosh
 #### _Lenovo ThinkPad X390_
 
 [![macOS Version](https://custom-icon-badges.demolab.com/badge/macOS%20-%2010.14.6%20to%2015.6.1-005FFF.svg?logo=apple&logoColor=white)](#)
