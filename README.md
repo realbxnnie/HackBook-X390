@@ -50,5 +50,9 @@
   <b>AirDrop</b>.
   
   <b>AirPlay</b>.\
+  <b>Touch Screen</b>.\
   <b>Touch ID</b>.
 </details>
+
+>[!IMPORTANT]
+>When using the EFI, please change the serial number to avoid **Apple ID** blacklist.
