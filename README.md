@@ -52,6 +52,3 @@
   <b>AirPlay</b>.\
   <b>Touch ID</b>.
 </details>
-
-> [!CAUTION]
-> 🫟 macOS 26 Tahoe is supported, but not recommended while being in beta.
