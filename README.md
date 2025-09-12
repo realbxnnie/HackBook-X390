@@ -3,7 +3,7 @@
 # Hackintosh
 #### _Lenovo ThinkPad X390_
 
-[![macOS Version](https://custom-icon-badges.demolab.com/badge/macOS%20-%2010.14.6%20to%2015.6.1-005FFF.svg?logo=apple&logoColor=white)](#)
+[![macOS Version](https://custom-icon-badges.demolab.com/badge/macOS%20-%2010.14.6%20to%2026.0-005FFF.svg?logo=apple&logoColor=white)](#)
 [![OpenCore Version](https://custom-icon-badges.demolab.com/badge/OpenCore%20-%200.9.8%20to%201.0.6-00FFF.svg?logo=opencore&logoColor=white)](#)
 [![License](https://custom-icon-badges.demolab.com/badge/License%20-%20MIT-BBBBBB.svg?logo=license&logoColor=white)](#)
 
